@@ -4,6 +4,12 @@ Web app que analiza exportaciones `.txt` de chats de WhatsApp directamente en el
 
 Todo el procesamiento se realiza client-side, sin backend ni base de datos.
 
+## Demo
+
+Puedes probar la aplicación aquí:
+
+https://whatsapp-chat-analyzer-ruby.vercel.app/
+
 ## Captura
 
 ![Análisis](docs/images/captura.png)
