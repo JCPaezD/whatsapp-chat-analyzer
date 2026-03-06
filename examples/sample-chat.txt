@@ -1,0 +1,561 @@
+[12/1/26, 08:12:11] Laura: Buenos días
+[12/1/26, 08:12:35] Miguel: Buenos días
+[12/1/26, 08:13:02] Ana: Hola
+[12/1/26, 08:14:21] Sergio: Buen día
+[12/1/26, 08:16:10] Marta: ¿Cómo vais hoy?
+[12/1/26, 08:17:33] Diego: Con café
+[12/1/26, 08:17:49] Pablo: Igual aquí
+
+[12/1/26, 08:31:22] Laura: Recordatorio rápido
+[12/1/26, 08:31:40] Laura: hoy toca revisar el documento
+
+[12/1/26, 08:33:05] Miguel: Vale
+[12/1/26, 08:33:44] Ana: Lo abro ahora
+
+[12/1/26, 09:02:11] Sergio: Hay un gráfico que no carga
+[12/1/26, 09:02:55] Marta: ¿Cuál?
+[12/1/26, 09:03:20] Sergio: El segundo
+
+[12/1/26, 09:04:12] Diego: Yo sí lo veo
+
+[12/1/26, 09:04:51] Pablo: Tarda un poco
+
+[12/1/26, 09:20:11] Laura: Creo que lo mejor es simplificar esa parte
+
+[12/1/26, 09:20:33] Laura: ahora mismo hay demasiado texto
+
+[12/1/26, 09:21:14] Miguel: Sí
+
+[12/1/26, 09:21:58] Ana: De acuerdo
+
+[12/1/26, 10:44:03] Marta: Pausa café
+
+[12/1/26, 10:44:10] Pablo: +1
+
+[12/1/26, 10:44:44] Diego: Voy
+
+[12/1/26, 12:11:03] Sergio: He hecho unos cambios pequeños
+[12/1/26, 12:11:40] Sergio: nada importante
+
+[12/1/26, 12:12:33] Laura: luego los miro
+
+[12/1/26, 13:50:12] Ana: ¿Coméis ahora?
+
+[12/1/26, 13:50:44] Marta: Sí
+
+[12/1/26, 13:51:02] Miguel: Voy en 5
+
+[12/1/26, 15:22:18] Diego: Acabo de volver
+
+[12/1/26, 15:23:01] Pablo: Yo también
+
+[12/1/26, 16:44:02] Laura: Estoy revisando otra vez el documento
+
+[12/1/26, 16:44:51] Laura: creo que ahora está mucho más claro
+
+[12/1/26, 16:46:11] Sergio: Sí
+
+[12/1/26, 16:47:55] Marta: Coincido
+
+[12/1/26, 18:12:10] Miguel: Yo ya cierro por hoy
+
+[12/1/26, 18:12:33] Ana: Hasta mañana
+
+[12/1/26, 18:12:55] Diego: Buen descanso
+
+
+
+[14/1/26, 07:58:02] Marta: Buenos días
+[14/1/26, 07:58:44] Miguel: Buenos días
+
+[14/1/26, 08:01:33] Ana: Hola
+
+[14/1/26, 08:02:12] Pablo: Buen día
+
+[14/1/26, 08:04:02] Diego: Café preparado
+
+[14/1/26, 08:10:33] Laura: Hoy deberíamos cerrar la presentación
+
+[14/1/26, 08:11:02] Sergio: Sí
+
+[14/1/26, 08:12:21] Miguel: Estoy con las cifras
+
+[14/1/26, 08:14:12] Ana: Yo reviso texto
+
+[14/1/26, 09:31:12] Marta: Pequeño comentario
+
+[14/1/26, 09:31:44] Marta: quizá el título debería ser más corto
+
+[14/1/26, 09:32:55] Laura: Buena idea
+
+[14/1/26, 10:14:44] Pablo: He añadido un icono
+
+[14/1/26, 10:15:01] Diego: Ahora queda mejor
+
+[14/1/26, 12:40:11] Sergio: Estoy terminando
+
+[14/1/26, 12:40:33] Sergio: un momento
+
+[14/1/26, 12:41:10] Sergio: listo
+
+[14/1/26, 12:42:12] Laura: Perfecto
+
+
+
+[18/1/26, 09:12:22] Diego: ¿Alguien tiene la versión final?
+
+[18/1/26, 09:12:55] Ana: Creo que Laura
+
+[18/1/26, 09:13:12] Laura: Sí
+
+[18/1/26, 09:13:50] Laura: ahora mismo la paso
+
+[18/1/26, 09:15:01] Miguel: Gracias
+
+[18/1/26, 09:22:44] Pablo: Estoy revisando una cosa
+
+[18/1/26, 09:23:33] Pablo: nada grave
+
+[18/1/26, 09:24:01] Marta: ok
+
+[18/1/26, 10:02:11] Sergio: Creo que podríamos añadir un pequeño resumen final.
+
+Algo breve.
+Solo tres o cuatro líneas.
+
+Así queda más claro para quien lo lea rápido.
+
+[18/1/26, 10:05:21] Laura: Me gusta la idea
+
+[18/1/26, 10:06:01] Miguel: Sí
+
+
+
+[21/1/26, 08:12:01] Marta: Buenos días
+
+[21/1/26, 08:12:41] Ana: Hola
+
+[21/1/26, 08:13:22] Diego: Buen día
+
+[21/1/26, 08:14:11] Pablo: Café
+
+[21/1/26, 08:20:33] Laura: Hoy revisión final
+
+[21/1/26, 08:21:02] Miguel: Vale
+
+[21/1/26, 09:44:55] Sergio: Todo parece correcto
+
+[21/1/26, 09:45:22] Marta: Sí
+
+[21/1/26, 09:46:11] Ana: De acuerdo
+
+[21/1/26, 12:22:33] Diego: Creo que ya está
+
+[21/1/26, 12:23:01] Laura: Buen trabajo equipo
+
+[24/1/26, 08:05:12] Laura: Buenos días
+[24/1/26, 08:05:41] Miguel: Buenos días
+[24/1/26, 08:06:02] Ana: Hola
+[24/1/26, 08:06:44] Marta: Buen día
+[24/1/26, 08:07:15] Diego: Café listo
+[24/1/26, 08:07:52] Pablo: Necesito uno también
+
+[24/1/26, 08:22:11] Laura: Estaba revisando una cosa del documento
+
+[24/1/26, 08:22:55] Laura: creo que podemos acortar la introducción
+
+[24/1/26, 08:23:44] Miguel: Sí
+
+[24/1/26, 08:24:30] Ana: También lo pensé
+
+[24/1/26, 08:25:10] Sergio: Si quitamos dos párrafos queda mejor
+
+[24/1/26, 09:12:41] Marta: He dejado un comentario ahí
+
+[24/1/26, 09:13:10] Laura: visto
+
+[24/1/26, 09:14:02] Laura: lo cambio ahora
+
+[24/1/26, 10:01:44] Diego: pregunta rápida
+
+[24/1/26, 10:02:01] Diego: ¿la tabla final se queda así?
+
+[24/1/26, 10:02:55] Miguel: Sí
+
+[24/1/26, 10:03:14] Pablo: Creo que sí
+
+[24/1/26, 11:33:22] Sergio: Estoy revisando los gráficos
+
+[24/1/26, 11:34:10] Sergio: uno se ve un poco pequeño
+
+[24/1/26, 11:35:03] Marta: ¿Cuál?
+
+[24/1/26, 11:35:20] Sergio: el tercero
+
+[24/1/26, 11:36:11] Laura: lo amplío
+
+[24/1/26, 13:12:44] Ana: ¿Pausa comida?
+
+[24/1/26, 13:13:01] Miguel: Sí
+
+[24/1/26, 13:13:22] Diego: Voy
+
+[24/1/26, 13:13:44] Pablo: Igual
+
+[24/1/26, 16:11:55] Marta: Estoy revisando otra vez el resumen
+
+[24/1/26, 16:12:21] Marta: creo que ahora sí queda claro
+
+[24/1/26, 16:13:02] Laura: Perfecto
+
+[24/1/26, 17:40:11] Sergio: Yo ya cierro por hoy
+
+[24/1/26, 17:40:33] Ana: Hasta mañana
+
+
+
+[28/1/26, 08:01:22] Miguel: Buenos días
+[28/1/26, 08:01:44] Laura: Buenos días
+[28/1/26, 08:02:11] Ana: Hola
+[28/1/26, 08:03:20] Diego: Buen día
+
+[28/1/26, 08:12:41] Pablo: Hoy tengo varias reuniones
+
+[28/1/26, 08:13:02] Marta: Yo también
+
+[28/1/26, 09:22:11] Laura: Estaba pensando algo
+
+[28/1/26, 09:22:44] Laura: tal vez podríamos mover el gráfico principal al principio
+
+[28/1/26, 09:23:15] Miguel: Tiene sentido
+
+[28/1/26, 09:23:55] Ana: Sí
+
+[28/1/26, 10:11:01] Sergio: Lo acabo de mover
+
+[28/1/26, 10:11:22] Sergio: queda mejor
+
+[28/1/26, 11:44:10] Diego: Confirmo
+
+[28/1/26, 11:44:55] Pablo: Mucho mejor
+
+[28/1/26, 14:03:12] Marta: Acabo de volver de comer
+
+[28/1/26, 14:04:02] Ana: Igual
+
+[28/1/26, 16:21:22] Laura: Estoy revisando ortografía
+
+[28/1/26, 16:22:10] Laura: he visto dos detalles pequeños
+
+[28/1/26, 16:22:41] Miguel: Gracias
+
+[28/1/26, 18:02:11] Diego: Yo cierro ya
+
+
+
+[2/2/26, 07:55:11] Marta: Buenos días
+[2/2/26, 07:55:44] Miguel: Buenos días
+[2/2/26, 07:56:02] Ana: Hola
+[2/2/26, 07:56:44] Diego: Buen día
+
+[2/2/26, 08:12:02] Laura: Hoy deberíamos cerrar definitivamente
+
+[2/2/26, 08:12:41] Sergio: Sí
+
+[2/2/26, 08:13:10] Pablo: Estoy revisando el último bloque
+
+[2/2/26, 09:33:44] Pablo: Creo que está bien
+
+[2/2/26, 09:34:01] Marta: Lo miro
+
+[2/2/26, 09:34:55] Marta: Sí
+
+[2/2/26, 10:11:20] Laura: Buen trabajo
+
+[2/2/26, 10:11:55] Miguel: 👍
+
+[2/2/26, 11:20:10] Diego: Pequeña duda
+
+[2/2/26, 11:20:30] Diego: en el resumen final
+
+[2/2/26, 11:20:55] Diego: ¿dejamos tres puntos o cuatro?
+
+[2/2/26, 11:21:33] Ana: Tres
+
+[2/2/26, 11:21:50] Laura: Tres mejor
+
+[2/2/26, 12:55:02] Sergio: He hecho ese cambio
+
+[2/2/26, 12:55:20] Sergio: listo
+
+
+
+[7/2/26, 10:12:10] Pablo: Me estaba acordando de una cosa
+
+[7/2/26, 10:12:44] Pablo: en el apartado final
+
+[7/2/26, 10:13:01] Pablo: quizá podríamos simplificar una frase
+
+[7/2/26, 10:13:44] Laura: ¿Cuál?
+
+[7/2/26, 10:14:20] Pablo: la segunda del último párrafo
+
+[7/2/26, 10:14:55] Laura: sí
+
+[7/2/26, 10:15:33] Laura: ahora la cambio
+
+[7/2/26, 10:17:11] Miguel: Mucho mejor
+
+[7/2/26, 11:44:20] Marta: Confirmo
+
+[7/2/26, 11:45:01] Diego: 👍
+
+[7/2/26, 13:22:10] Ana: Pausa comida
+
+[7/2/26, 13:22:44] Sergio: Buen provecho
+
+
+
+[12/2/26, 08:11:02] Laura: Buenos días
+[12/2/26, 08:11:44] Miguel: Buenos días
+[12/2/26, 08:12:22] Ana: Hola
+
+[12/2/26, 08:14:10] Diego: Café
+
+[12/2/26, 08:15:02] Marta: Necesito uno también
+
+[12/2/26, 09:21:11] Sergio: Estaba leyendo el documento otra vez
+
+[12/2/26, 09:21:44] Sergio: y creo que está bastante sólido
+
+[12/2/26, 09:22:20] Laura: Me alegro
+
+[12/2/26, 09:22:55] Miguel: Sí
+
+[12/2/26, 09:23:22] Pablo: Buen trabajo
+
+[12/2/26, 11:33:41] Marta: Creo que podemos darlo por terminado
+
+[12/2/26, 11:34:11] Laura: Estoy de acuerdo
+
+[12/2/26, 11:34:55] Ana: Sí
+
+[12/2/26, 12:01:22] Diego: Entonces cerrado
+
+[12/2/26, 12:01:55] Sergio: Perfecto
+
+[18/2/26, 08:02:11] Laura: Buenos días
+[18/2/26, 08:02:40] Miguel: Buenos días
+[18/2/26, 08:03:05] Ana: Hola
+[18/2/26, 08:03:44] Diego: Buen día
+[18/2/26, 08:04:12] Marta: ¿Cómo va todo?
+[18/2/26, 08:05:11] Pablo: Con sueño
+[18/2/26, 08:05:40] Sergio: Café y listo
+
+[18/2/26, 08:22:11] Laura: He estado pensando una cosa
+
+[18/2/26, 08:22:55] Laura: quizás podríamos reutilizar parte del documento para el informe mensual
+
+[18/2/26, 08:23:20] Miguel: Tiene sentido
+
+[18/2/26, 08:23:55] Ana: Sí
+
+[18/2/26, 09:01:12] Marta: Estaba mirando esa idea
+
+[18/2/26, 09:01:44] Marta: creo que la introducción serviría casi igual
+
+[18/2/26, 09:02:33] Diego: Sí
+
+[18/2/26, 09:03:11] Pablo: Cambiando un par de frases
+
+[18/2/26, 09:33:44] Sergio: Lo pruebo luego
+
+[18/2/26, 11:22:01] Laura: He copiado esa sección a un documento nuevo
+
+[18/2/26, 11:22:44] Laura: así podemos trabajar sobre él
+
+[18/2/26, 11:23:10] Miguel: Perfecto
+
+[18/2/26, 12:10:02] Ana: Lo reviso después de comer
+
+[18/2/26, 12:10:44] Marta: Yo también
+
+[18/2/26, 13:55:12] Pablo: Vuelvo ahora
+
+[18/2/26, 13:55:33] Diego: Igual
+
+
+
+[22/2/26, 09:10:11] Miguel: Buenos días
+
+[22/2/26, 09:10:44] Laura: Buenos días
+
+[22/2/26, 09:11:22] Ana: Hola
+
+[22/2/26, 09:12:01] Diego: Buen día
+
+[22/2/26, 09:20:33] Laura: Estuve revisando el documento ayer por la noche.
+
+Creo que ya tiene una estructura bastante clara.
+Quizá solo falte simplificar un poco el final.
+
+Nada grande.
+
+[22/2/26, 09:22:55] Sergio: Lo miro
+
+[22/2/26, 09:23:21] Marta: Yo también
+
+[22/2/26, 10:05:44] Pablo: Creo que quitando dos frases queda perfecto
+
+[22/2/26, 10:06:10] Laura: Adelante
+
+[22/2/26, 11:12:02] Pablo: Hecho
+
+[22/2/26, 11:12:41] Miguel: Queda muy limpio ahora
+
+[22/2/26, 12:33:01] Diego: Confirmo
+
+
+
+[27/2/26, 08:05:10] Marta: Buenos días
+
+[27/2/26, 08:05:33] Ana: Buenos días
+
+[27/2/26, 08:06:02] Miguel: Hola
+
+[27/2/26, 08:06:44] Diego: Buen día
+
+[27/2/26, 08:14:20] Sergio: Estaba revisando unas notas antiguas
+
+[27/2/26, 08:14:44] Sergio: hay algunas ideas interesantes
+
+[27/2/26, 08:15:10] Laura: ¿Sobre qué?
+
+[27/2/26, 08:15:41] Sergio: sobre la estructura del informe anual
+
+[27/2/26, 08:16:11] Pablo: Eso puede servir
+
+[27/2/26, 09:44:55] Marta: Si tienes el documento pásalo
+
+[27/2/26, 09:45:22] Sergio: Ahora lo busco
+
+[27/2/26, 09:46:40] Sergio: encontrado
+
+[27/2/26, 09:47:02] Sergio: lo subo
+
+[27/2/26, 10:12:20] Laura: Gracias
+
+[27/2/26, 10:13:02] Miguel: Luego lo miro
+
+
+
+[4/3/26, 08:01:02] Laura: Buenos días
+
+[4/3/26, 08:01:44] Miguel: Buenos días
+
+[4/3/26, 08:02:20] Ana: Hola
+
+[4/3/26, 08:03:11] Diego: Buen día
+
+[4/3/26, 08:10:02] Marta: Hoy tengo varias reuniones
+
+[4/3/26, 08:10:44] Pablo: Yo también
+
+[4/3/26, 08:11:12] Sergio: Igual aquí
+
+[4/3/26, 09:22:41] Laura: Estuve revisando el documento que pasó Sergio
+
+[4/3/26, 09:23:02] Laura: tiene algunas ideas interesantes
+
+[4/3/26, 09:23:44] Miguel: Sí
+
+[4/3/26, 09:24:01] Miguel: sobre todo el esquema inicial
+
+[4/3/26, 10:40:11] Marta: Lo acabo de leer
+
+[4/3/26, 10:40:44] Marta: me gusta bastante
+
+[4/3/26, 11:22:10] Pablo: Podríamos adaptarlo
+
+[4/3/26, 11:22:41] Diego: Sí
+
+
+
+[10/3/26, 08:12:01] Miguel: Buenos días
+
+[10/3/26, 08:12:33] Ana: Hola
+
+[10/3/26, 08:13:10] Laura: Buenos días
+
+[10/3/26, 08:13:55] Diego: Buen día
+
+[10/3/26, 08:20:10] Sergio: He estado probando una reorganización del documento.
+
+Nada radical.
+Solo moví algunas secciones.
+
+Creo que ahora se lee más fluido.
+
+[10/3/26, 08:22:41] Marta: Lo miro
+
+[10/3/26, 08:23:02] Miguel: Yo también
+
+[10/3/26, 09:44:11] Pablo: Confirmo que se entiende mejor
+
+[10/3/26, 09:44:55] Laura: Buen cambio
+
+[10/3/26, 10:05:12] Ana: Sí
+
+
+
+[16/3/26, 09:02:12] Marta: Buenos días
+
+[16/3/26, 09:02:55] Diego: Buenos días
+
+[16/3/26, 09:03:22] Miguel: Hola
+
+[16/3/26, 09:04:10] Laura: Buen día
+
+[16/3/26, 09:10:02] Pablo: Estaba leyendo todo otra vez
+
+[16/3/26, 09:10:41] Pablo: creo que ya está muy sólido
+
+[16/3/26, 09:11:11] Sergio: Coincido
+
+[16/3/26, 09:11:44] Ana: Sí
+
+[16/3/26, 10:22:55] Laura: Buen trabajo equipo
+
+[16/3/26, 10:23:22] Miguel: 👍
+
+
+
+[24/3/26, 08:04:11] Laura: Buenos días
+
+[24/3/26, 08:04:44] Miguel: Buenos días
+
+[24/3/26, 08:05:20] Ana: Hola
+
+[24/3/26, 08:06:01] Diego: Buen día
+
+[24/3/26, 08:06:40] Marta: ¿Cómo vais?
+
+[24/3/26, 08:07:12] Pablo: Con café
+
+[24/3/26, 08:07:44] Sergio: Igual
+
+[24/3/26, 08:20:10] Laura: Estaba revisando el histórico de mensajes
+
+[24/3/26, 08:20:44] Laura: impresiona lo que hemos avanzado
+
+[24/3/26, 08:21:11] Miguel: Sí
+
+[24/3/26, 08:21:44] Ana: Bastante trabajo
+
+[24/3/26, 08:22:10] Diego: Pero ha merecido la pena
+
+[24/3/26, 08:22:41] Marta: Totalmente
+
+[24/3/26, 08:23:11] Pablo: Buen equipo
+
+[24/3/26, 08:23:44] Sergio: Sin duda
