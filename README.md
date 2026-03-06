@@ -76,7 +76,6 @@ Este archivo contiene una conversación ficticia generada únicamente para demos
 - Heatmap día × hora
 - Evolución mensual
 - Participación por autor
-- Distribución horaria por autor
 - Detección de ráfagas (5 mensajes en ≤5 minutos)
 
 El orden semanal sigue el estándar lunes → domingo.
@@ -97,7 +96,8 @@ actividad_media_hora = mensajes_en_hora / dias_totales
 
 2. Penalización anti-ráfaga
 
-Si una ráfaga de menos de 20 minutos aporta más del 40 % de la actividad de una hora, se reduce su peso en el cálculo.
+Una ráfaga se detecta cuando ocurren al menos 5 mensajes con intervalos ≤ 5 minutos.
+Si una hora está dominada por este tipo de ráfaga corta, se aplica una penalización multiplicando el score por 0.6.
 
 3. Score final por hora
 
@@ -162,12 +162,6 @@ Build de producción:
 npm run build
 npm run preview
 ```
-
----
-
-## Despliegue
-
-El proyecto puede desplegarse como aplicación estática de Vite, por ejemplo en Vercel.
 
 ---
 
